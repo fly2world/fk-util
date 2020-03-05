@@ -20,8 +20,8 @@
 
 
 	<issueManagement>
-		<system>OSC Issue</system>
-		<url>https://gitee.com/72/Ne4WeiXin/issues</url>
+		<system>GitHub Issue</system>
+		<url>https://github.com/fly2world/fk-util/issues</url>
 	</issueManagement>
 	<licenses>
 		<license>
