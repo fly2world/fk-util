@@ -9,12 +9,12 @@
 		<version>2.1.3.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>org.fxd.fk.common</groupId>
+	<groupId>com.tmsps.fk.common</groupId>
 	<artifactId>fk-util</artifactId>
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
 	<name>fk-util</name>
-	<description>fxd公司架构</description>
+	<description>tmsps团队架构</description>
 
 	<properties>
 		<java.version>1.8</java.version>
